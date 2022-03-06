@@ -1,6 +1,10 @@
 ## Olá! 👋
 
-Eu sou a Roberta, tenho 20 anos e sou Técnica em Informática. No momento, estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas e tenho como principais interesses o desenvolvimento Web e Mobile, atuando como fullstack.
+Eu sou a Roberta, tenho 20 anos e sou Técnica em Informática. No momento, tenho como principais interesses o desenvolvimento Web e Mobile, atuando como fullstack e sempre buscando aprimorar meus conhecimentos.
+
+- :books: Cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas
+- :briefcase:	Estagiária de Desenvolvimento Web na <a href="https://db.tec.br/">DB</a>
+
 
 ### 📊 GitHub Stats 
 
@@ -11,15 +15,14 @@ Eu sou a Roberta, tenho 20 anos e sou Técnica em Informática. No momento, esto
 
 ### 🛠️ Tecnologias mais utilizadas
 <div>
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <a href="https://pt-br.reactjs.org/"> <img height="35" width="35" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> </a>
+  <a href="https://nodejs.org/en/"> <img height="35" width="35" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> </a>
+  <a href="https://www.javascript.com/"> <img height="35" width="35" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
+  <a href="https://www.typescriptlang.org/"> <img height="35" width="35" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img height="35" width="35" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/"> <img height="35" width="35" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a> 
+  <a href="https://www.mongodb.com/"> <img height="35" width="35" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> </a>
+  <a href="https://firebase.google.com/"> <img height="35" width="35" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> </a>
 </div>
 
 
