@@ -3,7 +3,7 @@
 Eu sou a Roberta, tenho 20 anos e sou Técnica em Informática. No momento, tenho como principal interesse o desenvolvimento Web e possuo alguns conhecimentos no desenvolvimento Mobile, atuando com foco no front-end e sempre buscando aprimorar meus conhecimentos.
 
 - :books: Cursando o primeiro semestre de Tecnologia em Sistemas para Internet
-- :briefcase:	Estagiária de Desenvolvimento Web na <a href="https://db.tec.br/">DB</a>
+- :briefcase: Desenvolvedora Front-end na <a href="https://db.tec.br/">DB</a>
 
 
 ### 📊 GitHub Stats 
