@@ -1,17 +1,9 @@
 ## Olá! 👋
 
-Eu sou a Roberta, tenho 21 anos e sou Técnica em Informática. No momento, tenho como principal interesse o desenvolvimento Web e possuo alguns conhecimentos no desenvolvimento Mobile, atuando com foco no front-end e sempre buscando aprimorar meus conhecimentos.
+Eu sou a Roberta, tenho 22 anos e sou Técnica em Informática. No momento, tenho como principal interesse o desenvolvimento Web e possuo alguns conhecimentos no desenvolvimento Mobile, atuando com foco no front-end e sempre buscando aprimorar meus conhecimentos.
 
-- :books: Cursando o terceiro semestre de Tecnologia em Sistemas para Internet
-- :briefcase: Desenvolvedora Full-stack na <a href="https://db.tec.br/">DB</a>
-
-
-### 📊 GitHub Stats 
-
-<div>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=roazambuja&show_icons=true&theme=swift&hide=stars&include_all_commits=true&hide_title=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roazambuja&layout=compact&theme=swift&langs_count=4"/>
-</div>
+- :books: Cursando Tecnologia em Sistemas para Internet
+- :briefcase: Desenvolvedora Front-end na <a href="https://db.tec.br/">DB</a>
 
 ### 🛠️ Tecnologias mais utilizadas
 <div>
